@@ -1,0 +1,15 @@
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/bin/Debug/net8.0/MyApp
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/bin/Debug/net8.0/MyApp.dll
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/bin/Debug/net8.0/MyApp.pdb
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/obj/Debug/net8.0/MyApp.dll
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/obj/Debug/net8.0/MyApp.pdb
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/Users/RohithGVMac/DSA/StriverDSA/StriverDSA1/MyApp/obj/Debug/net8.0/ref/MyApp.dll
